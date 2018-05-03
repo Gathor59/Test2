@@ -1,4 +1,4 @@
-## Welcome to Pages de Sébastien bis
+## Welcome to Pages de Sébastien ter
 
 You can use the [editor on GitHub](https://github.com/Gathor59/Test2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
